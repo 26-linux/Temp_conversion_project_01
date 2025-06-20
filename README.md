@@ -1,7 +1,7 @@
 # Temp_conversion_project_01
 
-## 📌 Project Overview
-This is a simple Python-based program that allows users to convert temperature values between **Celsius**, **Fahrenheit**, and **Kelvin**. It is a console application that takes user input and provides accurate conversions using standard mathematical formulas.
+## Project Overview
+This is a Python-based program that allows users to convert temperature values between **Celsius**, **Fahrenheit**, and **Kelvin**. It is a console application that takes user input and provides accurate conversions using standard mathematical formulas.
 
 ## Features
 - Convert temperature from any of the three units: Celsius, Fahrenheit, or Kelvin
